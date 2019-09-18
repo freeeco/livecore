@@ -43,6 +43,14 @@ If wrapping is disabled, ramps can be triggered in oneshot mode to drive sample 
 ---
 
 - [Phase Driver](#phase-driver)
+- [Sequencer](#sequencer)
+- [Splitter](#splitter)
+- [Gate](#gate)
+- [Mixer](#mixer)
+- [Limiter](#limiter)
+- [Waveshaper](#waveshaper)
+- [Reader](#reader)
+- More docs TBC...
 
 #### Phase Driver
 
