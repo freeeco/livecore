@@ -15,9 +15,8 @@ In this work we introduce LiveCore: a macro library for the low-level dataflow e
 LiveCore manages program state at audio rates and provides a suite of modules for musical pattern generation, sequencing and synthesis.
 LiveCore increases liveness in Reaktor Core from an editable dataflow program, to one with continuous audio suitable for musical performance.
 
----
-
 ## Setup
+---
 
 - Clone or download this repo
 - Unzip the LiveCore ensemble
