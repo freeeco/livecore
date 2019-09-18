@@ -5,6 +5,8 @@
 
 Poster presented by David Alexander ([@freeeco](https://github.com/freeeco)) and Jack Armitage ([@jarmitage](https://github.com/jarmitage)) at [Audio Mostly 2019](https://audiomostly.com), University of Nottingham, Nottingham, UK.
 
+[_⚡️ LiveCore Demo Video ⚡️_](https://www.youtube.com/watch?v=QydFJKQSA7M)
+![[LiveCore Demo Video](https://www.youtube.com/watch?v=QydFJKQSA7M)](https://i.imgur.com/iGckXh6.png)
 
 ## Introduction
 ---
