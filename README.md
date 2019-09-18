@@ -1,5 +1,7 @@
 # LiveCore: Increasing Liveness in a Low-level Dataflow Programming Environment
 
+![LiveCore Banner](https://i.imgur.com/tMiYKKs.png)
+
 Poster presented by David Alexander ([@freeeco](https://github.com/freeeco)) and Jack Armitage ([@jarmitage](https://github.com/jarmitage)) at [Audio Mostly 2019](https://audiomostly.com), University of Nottingham, Nottingham, UK.
 
 ---
